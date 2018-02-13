@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "system",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "moduleResolution": "node"
+    },
+    "compileOnSave": true,
+    "exclude": [
+        "node_modules",
+        "**/*.spec.ts"
+    ]
+}

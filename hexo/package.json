@@ -1,0 +1,7 @@
+{
+  "main": "",
+  "name": "@types/hexo",
+  "scripts": {},
+  "typeScriptVersion": "^2.7.1",
+  "version": "0.0.1"
+}
